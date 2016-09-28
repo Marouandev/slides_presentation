@@ -1,6 +1,11 @@
 # Module slides_presentation drupal 8
-Make better presentations. 
-Create slides per presentation.
+
+<ul>
+<li>Make better presentations.</li> 
+<li>Create slides per presentation.</li>
+</ul>
+</br>
+<img src="https://raw.githubusercontent.com/Marouandev/slides_presentation/master/css/img/slides_presentation.png" width="250" height="200"/>
 
 # Usage
 <ul>
