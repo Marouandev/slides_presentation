@@ -1,11 +1,10 @@
 slides_presentation:
   version: VERSION
   js:
-    reveal/js/reveal.js: {}
+    js/reveal/js/reveal.js: {}
     js/custom.js: {}
   css:
     component:
-      css/editor_tools.css: {}
-      reveal/css/reveal.css: {}
-      reveal/css/theme/sky.css: {}
-      reveal/lib/css/zenburn.css: {}
+      js/reveal/css/reveal.css: {}
+      js/reveal/css/theme/black.css: {}
+      js/reveal/lib/css/zenburn.css: {}
